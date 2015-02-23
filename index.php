@@ -38,8 +38,8 @@
           </div>
 
           <div class="inner cover">
-            <h1 class="cover-heading">451.be</h1>
-            <p class="lead">HTTP/1.1 451 Unavailable For Legal Reasons</p>
+            <h1 class="cover-heading">HTTP/1.1 451</h1>
+            <p class="lead">Unavailable For Legal Reasons</p>
             <p class="lead">
               <a href="http://tools.ietf.org/id/draft-tbray-http-legally-restricted-status-00.html" class="btn btn-lg btn-default" target="_blank">Learn more</a>
             </p>
