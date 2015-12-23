@@ -4,8 +4,7 @@
 Why
 ===
 
-* http://tools.ietf.org/id/draft-tbray-http-legally-restricted-status-00.html
-* http://en.wikipedia.org/wiki/Fahrenheit_451
+* https://en.wikipedia.org/wiki/HTTP_451
 
 Who
 ===
