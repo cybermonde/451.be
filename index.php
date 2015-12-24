@@ -47,7 +47,7 @@
 
           <div class="mastfoot">
             <div class="inner">
-              <p>by <a href="http://www.cybermonde.org">cybermonde.org</a></p><p><a href="https://github.com/cybermonde/451.be/"><span class="glyphicon glyphicon-download"></span></a></p>
+              <p><a href="https://451.be"><span class="glyphicon glyphicon-lock"></span></a></p><p>by <a href="http://www.cybermonde.org">cybermonde.org</a></p><p><a href="https://github.com/cybermonde/451.be/"><span class="glyphicon glyphicon-download"></span></a></p>
             </div>
           </div>
 
